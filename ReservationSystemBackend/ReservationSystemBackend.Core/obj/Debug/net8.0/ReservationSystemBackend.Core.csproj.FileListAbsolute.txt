@@ -1,0 +1,12 @@
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\bin\Debug\net8.0\ReservationSystemBackend.Core.deps.json
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\bin\Debug\net8.0\ReservationSystemBackend.Core.dll
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\bin\Debug\net8.0\ReservationSystemBackend.Core.pdb
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\ReservationSystemBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\ReservationSystemBackend.Core.AssemblyInfoInputs.cache
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\ReservationSystemBackend.Core.AssemblyInfo.cs
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\ReservationSystemBackend.Core.csproj.CoreCompileInputs.cache
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\ReservationSystemBackend.Core.sourcelink.json
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\ReservationSystemBackend.Core.dll
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\refint\ReservationSystemBackend.Core.dll
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\ReservationSystemBackend.Core.pdb
+C:\Users\jhoss\Documents\Portfolio\TechTest\ReservationSystem\ReservationSystemBackend\ReservationSystemBackend.Core\obj\Debug\net8.0\ref\ReservationSystemBackend.Core.dll
