@@ -1,6 +1,9 @@
 using Microsoft.EntityFrameworkCore;
+using ReservationSystemBackend.Core.Interfaces;
+using ReservationSystemBackend.Core.Services;
 using ReservationSystemBackend.Infraestructure.Data;
 using ReservationSystemBackend.Infraestructure.Mappings;
+using ReservationSystemBackend.Infraestructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +18,9 @@ builder.Services.AddDbContext<ReservationSystemDbContext>(cf =>
         cf.UseSqlServer(builder.Configuration.GetConnectionString("ReservationSystemDB")));
 
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile).Assembly);
+
+builder.Services.AddTransient<IClientRepository, ClientRepository>();
+builder.Services.AddTransient<IClientService, ClientService>();
 
 var app = builder.Build();
 

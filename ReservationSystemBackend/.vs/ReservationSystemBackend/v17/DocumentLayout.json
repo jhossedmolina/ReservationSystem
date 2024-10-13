@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.infraestructure\\data\\configurations\\servicetypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|solutionrelative:reservationsystembackend.infraestructure\\data\\configurations\\servicetypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.infraestructure\\data\\reservationsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|solutionrelative:reservationsystembackend.infraestructure\\data\\reservationsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.infraestructure\\data\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|solutionrelative:reservationsystembackend.infraestructure\\data\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|solutionrelative:reservationsystembackend.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F067EF9-3811-4287-B0E7-5AD632C3F135}|ReservationSystemBackend.API\\ReservationSystemBackend.API.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F067EF9-3811-4287-B0E7-5AD632C3F135}|ReservationSystemBackend.API\\ReservationSystemBackend.API.csproj|solutionrelative:reservationsystembackend.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F067EF9-3811-4287-B0E7-5AD632C3F135}|ReservationSystemBackend.API\\ReservationSystemBackend.API.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F067EF9-3811-4287-B0E7-5AD632C3F135}|ReservationSystemBackend.API\\ReservationSystemBackend.API.csproj|solutionrelative:reservationsystembackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F067EF9-3811-4287-B0E7-5AD632C3F135}|ReservationSystemBackend.API\\ReservationSystemBackend.API.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0F067EF9-3811-4287-B0E7-5AD632C3F135}|ReservationSystemBackend.API\\ReservationSystemBackend.API.csproj|solutionrelative:reservationsystembackend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.core\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|solutionrelative:reservationsystembackend.core\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.infraestructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|solutionrelative:reservationsystembackend.infraestructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|solutionrelative:reservationsystembackend.core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.core\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|solutionrelative:reservationsystembackend.core\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.infraestructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93720A47-54EC-4ECE-ADBA-284D808D8400}|ReservationSystemBackend.Infraestructure\\ReservationSystemBackend.Infraestructure.csproj|solutionrelative:reservationsystembackend.infraestructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\techtest\\reservationsystem\\reservationsystembackend\\reservationsystembackend.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DFAC01-E66A-4B66-A522-1B44F8719114}|ReservationSystemBackend.Core\\ReservationSystemBackend.Core.csproj|solutionrelative:reservationsystembackend.core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,33 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceTypeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Data\\Configurations\\ServiceTypeConfiguration.cs",
-              "RelativeDocumentMoniker": "ReservationSystemBackend.Infraestructure\\Data\\Configurations\\ServiceTypeConfiguration.cs",
-              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Data\\Configurations\\ServiceTypeConfiguration.cs",
-              "RelativeToolTip": "ReservationSystemBackend.Infraestructure\\Data\\Configurations\\ServiceTypeConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:35:21.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservationSystemDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Data\\ReservationSystemDbContext.cs",
-              "RelativeDocumentMoniker": "ReservationSystemBackend.Infraestructure\\Data\\ReservationSystemDbContext.cs",
-              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Data\\ReservationSystemDbContext.cs",
-              "RelativeToolTip": "ReservationSystemBackend.Infraestructure\\Data\\ReservationSystemDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowB8AAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:30:54.978Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -72,67 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Data\\Configurations\\ClientConfiguration.cs",
-              "RelativeDocumentMoniker": "ReservationSystemBackend.Infraestructure\\Data\\Configurations\\ClientConfiguration.cs",
-              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Data\\Configurations\\ClientConfiguration.cs",
-              "RelativeToolTip": "ReservationSystemBackend.Infraestructure\\Data\\Configurations\\ClientConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:31:22.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Entities\\Client.cs",
-              "RelativeDocumentMoniker": "ReservationSystemBackend.Core\\Entities\\Client.cs",
-              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Entities\\Client.cs",
-              "RelativeToolTip": "ReservationSystemBackend.Core\\Entities\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:28:51.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.API\\Program.cs",
               "RelativeDocumentMoniker": "ReservationSystemBackend.API\\Program.cs",
               "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.API\\Program.cs",
               "RelativeToolTip": "ReservationSystemBackend.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:26:24.854Z",
+              "WhenOpened": "2024-10-12T23:40:51.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.API\\appsettings.json",
-              "RelativeDocumentMoniker": "ReservationSystemBackend.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.API\\appsettings.json",
-              "RelativeToolTip": "ReservationSystemBackend.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-12T15:25:55.183Z",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.API\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ReservationSystemBackend.API\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.API\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ReservationSystemBackend.API\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:40:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "ReservationSystemBackend.Core\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Services\\ClientService.cs",
+              "RelativeToolTip": "ReservationSystemBackend.Core\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:37:17.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "ReservationSystemBackend.Core\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "ReservationSystemBackend.Core\\Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:37:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "ReservationSystemBackend.Core\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "ReservationSystemBackend.Core\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:36:02.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Mappings\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "ReservationSystemBackend.Infraestructure\\Mappings\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Mappings\\AutoMapperProfile.cs",
-              "RelativeToolTip": "ReservationSystemBackend.Infraestructure\\Mappings\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ReservationSystemBackend.Core\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Core\\Entities\\Client.cs",
+              "RelativeToolTip": "ReservationSystemBackend.Core\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:14:27.639Z",
+              "WhenOpened": "2024-10-12T23:30:57.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "ReservationSystemBackend.Infraestructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\TechTest\\ReservationSystem\\ReservationSystemBackend\\ReservationSystemBackend.Infraestructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "ReservationSystemBackend.Infraestructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:26:10.389Z",
               "EditorCaption": ""
             }
           ]

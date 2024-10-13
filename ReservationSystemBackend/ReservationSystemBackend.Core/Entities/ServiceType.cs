@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ReservationSystemBackend.Core.Entities;
+﻿namespace ReservationSystemBackend.Core.Entities;
 
 public partial class ServiceType
 {
